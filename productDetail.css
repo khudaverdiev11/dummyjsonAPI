@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+#backButton {
+  text-decoration: none;
+  padding: 10px 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+  background-color: red;
+  color: #fff;
+  cursor: pointer;
+}
